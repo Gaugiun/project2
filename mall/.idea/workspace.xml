@@ -1,7 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="882f314b-4cb6-4e49-a57b-cfbc24fd763e" name="Default Changelist" comment="" />
+    <list default="true" id="d1c5da90-3b41-440d-9bbd-c364d8e8ae1a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallAddressMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallAddressMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/test/java/com/baidu/mall/MallApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/test/java/com/baidu/mall/MallApplicationTests.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/demo1_start/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,13 +103,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/Generator.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/AdminController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="-62">
+              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="834">
+              <caret line="112" column="9" lean-forward="true" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -24,97 +132,171 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/MallApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="99">
+              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+              <folding>
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/generatorConfig.xml">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/StatisticsUsersService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="85" column="50" selection-start-line="85" selection-start-column="50" selection-end-line="85" selection-end-column="50" />
+            <state relative-caret-position="161">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1_start/pom.xml">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/StatisticsUserServiceImp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            <state relative-caret-position="412">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="191">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/StatisticsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/StatisticsOrderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/StatisticsOrderRow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/SystemCharacterItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo1_start/src/main/java/Generator.java" />
-        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/mybatis.xml" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallAddressMapper.java" />
         <option value="$PROJECT_DIR$/demo1_start/pom.xml" />
-        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallAddress.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controllerbean/BaseRespVo.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/test/java/com/baidu/mall/MallApplicationTests.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/statistics_service/StatisticsUsersService.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/statistics_service/StatisticsUserServiceImp.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallUser.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/StatisticsUsersRow.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserMapper.xml" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/StatisticsUsersService.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/StatisticsUserServiceImp.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/StatisticsController.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/StatisticsOrderService.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/StatisticsOrderRow.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/SystemCharacterItem.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/Program Files/apache-maven-3.6.1" />
+        <option name="localRepository" value="D:\Maven\respository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="mall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="906" />
+    <option name="y" value="-9" />
+    <option name="width" value="934" />
+    <option name="height" value="1098" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="70" />
-    <option name="y" value="-26" />
-    <option name="width" value="2894" />
-    <option name="height" value="1770" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="mall" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mall" type="b2602c69:ProjectViewProjectNode" />
@@ -158,7 +340,34 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mall" type="b2602c69:ProjectViewProjectNode" />
@@ -174,28 +383,50 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577336186264" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo1_start" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lee\Desktop\mall\demo1_start\src\main\resources" />
-      <recent name="C:\Users\Lee\Desktop\mall\demo1_start\src\main\java" />
-    </key>
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -209,29 +440,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Generator">
-    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generator" />
-      <module name="demo1_start" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+  <component name="RunManager" selected="Spring Boot.MallApplication">
+    <configuration name="MallApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baidu.mall" />
+      <option name="MAIN_CLASS_NAME" value="com.baidu.mall.MallApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baidu.mall" />
+      <option name="MAIN_CLASS_NAME" value="com.baidu.mall.MallApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="demo1_start" />
+      <module name="mall" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.baidu.mall.MallApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Generator" />
-      <item itemvalue="Spring Boot.MallApplication" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Generator" />
+        <item itemvalue="JUnit.MallApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.MallApplicationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -240,126 +491,390 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="882f314b-4cb6-4e49-a57b-cfbc24fd763e" name="Default Changelist" comment="" />
-      <created>1577332832380</created>
+      <changelist id="d1c5da90-3b41-440d-9bbd-c364d8e8ae1a" name="Default Changelist" comment="" />
+      <created>1577342395699</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1577332832380</updated>
-      <workItem from="1577332836192" duration="3047000" />
+      <updated>1577342395699</updated>
+      <workItem from="1577342399242" duration="3176000" />
+      <workItem from="1577348158209" duration="17007000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MallApplicationTests_contextLoads - 2019.12.26 at 14h 57m 39s.xml">
+      <configuration name="MallApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MallApplicationTests_contextLoads - 2019.12.26 at 15h 00m 00s.xml">
+      <configuration name="MallApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MallApplicationTests_contextLoads - 2019.12.26 at 15h 01m 52s.xml">
+      <configuration name="MallApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MallApplicationTests_contextLoads - 2019.12.26 at 15h 03m 28s.xml">
+      <configuration name="MallApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MallApplicationTests - 2019.12.26 at 15h 04m 40s.xml">
+      <configuration name="MallApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MallApplicationTests_contextLoads - 2019.12.26 at 16h 55m 22s.xml">
+      <configuration name="MallApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MallApplicationTests_contextLoads - 2019.12.26 at 17h 05m 12s.xml">
+      <configuration name="MallApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3047000" />
+    <option name="totallyTimeSpent" value="20183000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <frame x="725" y="-7" width="747" height="878" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Capture Tool" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Web" order="4" side_tool="true" />
-      <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.20206186" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32977462" />
-      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" />
-      <window_info anchor="bottom" id="Java Enterprise" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Message" order="8" />
-      <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.30130488" />
-      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="14" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Mybatis datasource" order="2" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Bean Validation" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.3298969" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4600871" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5567867" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32963988" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32963988" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.53878117" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.08882522" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32963988" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.20083103" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Mybatis datasource" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/db.properties">
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/Generator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/reflect/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1006">
-          <caret line="499" selection-start-line="499" selection-end-line="499" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="115">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo1_start/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state relative-caret-position="989">
+          <caret line="43" column="39" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallAd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallAddressMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="85" column="50" selection-start-line="85" selection-start-column="50" selection-end-line="85" selection-end-column="50" />
+        <state relative-caret-position="184">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAddressMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/test/java/com/baidu/mall/MallApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/BaseRespVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallUserFormid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/StatisticsUsersRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/MallApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="99">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/Generator.java">
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="191">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="112" column="9" lean-forward="true" selection-start-line="112" selection-start-column="9" selection-end-line="112" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/StatisticsUsersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/StatisticsUserServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/StatisticsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/StatisticsOrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/StatisticsOrderRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/SystemCharacterItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mall</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>12</last-edited>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

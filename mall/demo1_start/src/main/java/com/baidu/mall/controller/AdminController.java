@@ -1,6 +1,6 @@
 package com.baidu.mall.controller;
 
-import com.baidu.mall.controllerbean.BaseRespVo;
+import com.baidu.mall.bean.BaseRespVo;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

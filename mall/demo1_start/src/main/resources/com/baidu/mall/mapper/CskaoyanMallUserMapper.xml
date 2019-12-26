@@ -103,4 +103,11 @@
       deleted = #{deleted,jdbcType=BIT}
     where id = #{id,jdbcType=INTEGER}
   </update>
+  <resultMap id="UsersRowResultMap" type="com.baidu.mall.bean.StatisticsUsersRow">
+    <result column="day" jdbcType="CHAR" property="day" />
+    <result column="users" jdbcType="INTEGER" property="users" />
+  </resultMap>
+  <select id="selectDateNumble" resultMap="UsersRowResultMap">
+    SELECT CAST(last_login_time AS CHAR(10)) AS `day`, COUNT(id) AS `users` FROM cskaoyan_mall_user GROUP BY CAST(last_login_time AS CHAR(10));
+  </select>
 </mapper>

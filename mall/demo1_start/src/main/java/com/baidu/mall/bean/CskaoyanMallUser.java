@@ -1,7 +1,10 @@
 package com.baidu.mall.bean;
 
+import lombok.Data;
+
 import java.util.Date;
 
+@Data
 public class CskaoyanMallUser {
     private Integer id;
 

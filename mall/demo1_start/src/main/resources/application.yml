@@ -1,6 +1,18 @@
+server:
+  port: 8081
+
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/cskaoyanmall?useUnicode=true&characterEncoding=utf-8
+    url: jdbc:mysql://localhost:3306/18th_project2_db?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT&userSSL=false
     username: root
-    password: 123456
+    password: asd123456fnmj
+
+
+#可更改为远程数据库的配置，如进行本地测试可以自行把该部分注释掉
+#spring:
+#  datasource:
+#    url: jdbc:mysql://139.199.126.11:3306/18th_project2_db?useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT&userSSL=false
+#    driver-class-name: com.mysql.jdbc.Driver
+#    username: root1
+#    password: 123456
