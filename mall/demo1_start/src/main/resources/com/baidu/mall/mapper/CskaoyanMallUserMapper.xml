@@ -20,11 +20,11 @@
     <result column="deleted" jdbcType="BIT" property="deleted" />
   </resultMap>
   <sql id="Base_Column_List">
-    id, username, password, gender, birthday, last_login_time, last_login_ip, user_level, 
+    id, username, password, gender, birthday, last_login_time, last_login_ip, user_level,
     nickname, mobile, avatar, weixin_openid, status, add_time, update_time, deleted
   </sql>
   <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
-    select 
+    select
     <include refid="Base_Column_List" />
     from cskaoyan_mall_user
     where id = #{id,jdbcType=INTEGER}
@@ -103,4 +103,7 @@
       deleted = #{deleted,jdbcType=BIT}
     where id = #{id,jdbcType=INTEGER}
   </update>
+  <select id="selectAllUser" resultMap="BaseResultMap">
+      select <include refid="Base_Column_List" /> from cskaoyan_mall_user
+  </select>
 </mapper>
