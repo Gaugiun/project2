@@ -11,9 +11,9 @@ public interface CskaoyanMallUserMapper {
 
     CskaoyanMallUser selectByPrimaryKey(Integer id);
 
-    List<CskaoyanMallUser> selectAllUser();
-
     int updateByPrimaryKeySelective(CskaoyanMallUser record);
 
     int updateByPrimaryKey(CskaoyanMallUser record);
+
+    List<CskaoyanMallUser> selectAllUser();
 }
