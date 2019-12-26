@@ -1,5 +1,6 @@
 package com.baidu.mall.mapper;
 
+import com.baidu.mall.bean.CskaoyanMallAddress;
 import com.baidu.mall.bean.CskaoyanMallUser;
 import org.apache.ibatis.annotations.Mapper;
 
@@ -15,5 +16,6 @@ public interface CskaoyanMallUserMapper {
 
     int updateByPrimaryKey(CskaoyanMallUser record);
 
-    List<CskaoyanMallUser> selectAllUser();
+    List<CskaoyanMallUser> selectAllUser(String username,String mobile);
+
 }

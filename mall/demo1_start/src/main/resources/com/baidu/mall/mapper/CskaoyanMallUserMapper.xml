@@ -103,9 +103,18 @@
       deleted = #{deleted,jdbcType=BIT}
     where id = #{id,jdbcType=INTEGER}
   </update>
-    <select id="selectAllUser" resultMap="BaseResultMap">
-      select <include refid="Base_Column_List" /> from cskaoyan_mall_user
-    </select>
+  <select id="selectAllUser" resultMap="BaseResultMap">
+    select <include refid="Base_Column_List" /> from cskaoyan_mall_user
+    <where>
+      <if test="username!=null">
+        and username like "%"#{username}"%"
+      </if>
+      <if test="mobile!=null">
+        and mobile like "%"#{mobile}"%"
+      </if>
+    </where>
+  </select>
+
 
 
 </mapper>

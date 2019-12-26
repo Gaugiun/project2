@@ -1,49 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/UserController.java" line="28" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/UserController.java" line="34" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="882f314b-4cb6-4e49-a57b-cfbc24fd763e" name="Default Changelist" comment="&quot;l&quot;">
-      <change afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallCollect.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallCollect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallFeedback.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallFeedback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallFootprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallFootprint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallSearchHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallSearchHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallAddressMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallAddressMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallCollectMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallCollectMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallFeedbackMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallFeedbackMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallFootprintMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallFootprintMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallSearchHistoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallSearchHistoryMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAdMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAddressMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAdminMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallBrandMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCartMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCategoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCollectMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCommentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCouponMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCouponUserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallFeedbackMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallFootprintMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGoodsAttributeMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGoodsMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGoodsProductMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGoodsSpecificationMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGrouponMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGrouponRulesMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallIssueMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallKeywordMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallLogMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallOrderGoodsMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallOrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallPermissionMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallRegionMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallRoleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallSearchHistoryMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallStorageMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallSystemMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallTopicMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserFormidMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallAdMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAdMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallAddressMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAddressMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallAdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallBrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallBrandMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallCartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCartMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallCategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallCollectMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCollectMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallCommentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCommentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallCouponMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCouponMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallCouponUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCouponUserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallFeedbackMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallFeedbackMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallFootprintMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallFootprintMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallGoodsAttributeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGoodsAttributeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallGoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallGoodsProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGoodsProductMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallGoodsSpecificationMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGoodsSpecificationMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallGrouponMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGrouponMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallGrouponRulesMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallGrouponRulesMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallIssueMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallIssueMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallKeywordMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallKeywordMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallLogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallLogMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallOrderGoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallOrderGoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallOrderMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallOrderMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallPermissionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallPermissionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallRegionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallRegionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallRoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallSearchHistoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallSearchHistoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallStorageMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallStorageMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallSystemMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallSystemMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallTopicMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallTopicMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallUserFormidMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserFormidMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserMapper.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/demo1_start/target/" />
@@ -56,40 +64,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/Generator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/MallApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#310#311#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="38">
+              <caret line="172" column="67" lean-forward="true" selection-start-line="172" selection-start-column="67" selection-end-line="172" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/AdminController.java">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+            <state relative-caret-position="228">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,22 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <caret line="57" column="51" lean-forward="true" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,10 +97,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallFeedbackMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="114">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,10 +109,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallStorageMapper.java">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallFeedbackMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="152">
+              <caret line="96" column="9" lean-forward="true" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallSearchHistoryMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallSearchHistoryMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallFootprintMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallFootprintMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="63" column="14" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCollectMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="66" column="35" lean-forward="true" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -166,11 +190,28 @@
         <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/AdminController.java" />
         <option value="$PROJECT_DIR$/demo1_start/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/demo1_start/pom.xml" />
-        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserService.java" />
-        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java" />
-        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/CskaoyanMallUserMapper.xml" />
+        <option value="$PROJECT_DIR$/demo1_start/src/test/java/com/baidu/mall/MyTest.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallUser.java" />
         <option value="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserMapper.xml" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallAddressMapper.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAddressMapper.xml" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallCollect.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallCollectMapper.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCollectMapper.xml" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallFootprint.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallFootprintMapper.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallFootprintMapper.xml" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallSearchHistory.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallSearchHistoryMapper.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallSearchHistoryMapper.xml" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallFeedback.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserService.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallFeedbackMapper.java" />
+        <option value="$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallFeedbackMapper.xml" />
       </list>
     </option>
   </component>
@@ -197,9 +238,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
-    <option name="y" value="64" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="32" />
+    <option name="y" value="234" />
     <option name="width" value="2894" />
     <option name="height" value="1770" />
   </component>
@@ -251,7 +292,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mall" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mall" type="b2602c69:ProjectViewProjectNode" />
@@ -260,7 +301,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mall" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mall" type="b2602c69:ProjectViewProjectNode" />
@@ -278,6 +319,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1_start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -291,18 +353,25 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577363487983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577374142345" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lee\Desktop\git-servlet\project2\mall\demo1_start\src\main\resources\com\baidu\mall\mapper" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.baidu.mall.controller" />
       <recent name="com.baidu.mall.bean" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lee\Desktop\git-servlet\project2\mall\demo1_start\src\main\resources\com\baidu\mall" />
       <recent name="C:\Users\Lee\Desktop\mall\demo1_start\src\main\resources" />
       <recent name="C:\Users\Lee\Desktop\mall\demo1_start\src\main\java" />
     </key>
@@ -328,6 +397,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyTest.mytest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo1_start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baidu.mall" />
+      <option name="MAIN_CLASS_NAME" value="com.baidu.mall.MyTest" />
+      <option name="METHOD_NAME" value="mytest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo1_start" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.baidu.mall.MallApplication" />
@@ -338,9 +423,11 @@
     <list>
       <item itemvalue="Application.Generator" />
       <item itemvalue="Spring Boot.MallApplication" />
+      <item itemvalue="JUnit.MyTest.mytest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTest.mytest" />
         <item itemvalue="Application.Generator" />
       </list>
     </recent_temporary>
@@ -357,7 +444,7 @@
       <updated>1577332832380</updated>
       <workItem from="1577332836192" duration="3047000" />
       <workItem from="1577351765082" duration="22000" />
-      <workItem from="1577351814325" duration="4967000" />
+      <workItem from="1577351814325" duration="15295000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;2019-12-26 17:40&quot;">
       <created>1577353289589</created>
@@ -366,14 +453,51 @@
       <option name="project" value="LOCAL" />
       <updated>1577353289590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;l&quot;">
+      <created>1577363535977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577363535977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;l&quot;">
+      <created>1577363710782</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577363710782</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MyTest_mytest - 2019.12.26 at 20h 53m 33s.xml">
+      <configuration name="MyTest.mytest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_mytest - 2019.12.26 at 20h 54m 07s.xml">
+      <configuration name="MyTest.mytest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_mytest - 2019.12.26 at 20h 57m 44s.xml">
+      <configuration name="MyTest.mytest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_mytest - 2019.12.26 at 20h 58m 05s.xml">
+      <configuration name="MyTest.mytest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_mytest - 2019.12.26 at 20h 59m 42s.xml">
+      <configuration name="MyTest.mytest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_mytest - 2019.12.26 at 21h 02m 03s.xml">
+      <configuration name="MyTest.mytest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_mytest - 2019.12.26 at 21h 02m 33s.xml">
+      <configuration name="MyTest.mytest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8036000" />
+    <option name="totallyTimeSpent" value="18364000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="32" width="1447" height="885" extended-state="0" />
+    <frame x="11" y="442" width="1447" height="885" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -382,20 +506,20 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.32181427" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25413966" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32897863" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32891247" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32779098" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="6" visible="true" weight="0.32891247" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.29453683" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.33023873" />
-      <window_info anchor="bottom" id="Debug" order="11" weight="0.37267905" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.42755345" />
+      <window_info anchor="bottom" id="Debug" order="11" visible="true" weight="0.5769231" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
@@ -421,24 +545,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="&quot;l&quot;" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/db.properties" />
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/mybatis.xml" />
     <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/java/lang/reflect/Constructor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1006">
           <caret line="499" selection-start-line="499" selection-end-line="499" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="85" column="50" selection-start-line="85" selection-start-column="50" selection-end-line="85" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/BaseRespVo.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -447,111 +559,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallAddress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallAd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/Generator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAdMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/AdminController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/MallApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -572,16 +583,445 @@
     <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallStorageMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="85" column="50" selection-start-line="85" selection-start-column="50" selection-end-line="85" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.10/pagehelper-5.1.10.jar!/com/github/pagehelper/Page.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#887#888#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.2.RELEASE/spring-webmvc-5.2.2.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="514" column="27" selection-start-line="514" selection-start-column="27" selection-end-line="514" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.2.RELEASE/spring-webmvc-5.2.2.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="512" selection-start-line="512" selection-end-line="512" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.10/pagehelper-5.1.10.jar!/com/github/pagehelper/page/PageMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.2.RELEASE/spring-core-5.2.2.RELEASE.jar!/org/springframework/core/BridgeMethodResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.2.RELEASE/spring-core-5.2.2.RELEASE.jar!/org/springframework/util/ObjectUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#1943#1944#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/framework/AopProxyUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.2.RELEASE/spring-web-5.2.2.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/framework/AdvisedSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#2497#2498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/target/SingletonTargetSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#789#790#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="363" selection-start-line="363" selection-end-line="363" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2.jar!/org/junit/jupiter/engine/execution/InvocationInterceptorChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2.jar!/org/junit/jupiter/engine/descriptor/TestMethodTestDescriptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/test/java/com/baidu/mall/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.2.RELEASE/spring-aop-5.2.2.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="482" selection-start-line="482" selection-end-line="482" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallAd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/MallApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="106" selection-start-line="106" selection-end-line="114" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAdMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1064">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallAddressMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallAddressMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="93" column="31" lean-forward="true" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallCollect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallCollectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallCollectMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="66" column="35" lean-forward="true" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallFootprint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallFootprintMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallFootprintMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="63" column="14" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallSearchHistory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallSearchHistoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallSearchHistoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/bean/CskaoyanMallFeedback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="172" column="67" lean-forward="true" selection-start-line="172" selection-start-column="67" selection-end-line="172" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="57" column="51" lean-forward="true" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/java/com/baidu/mall/mapper/CskaoyanMallFeedbackMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1_start/src/main/resources/com/baidu/mall/mapper/CskaoyanMallFeedbackMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="96" column="9" lean-forward="true" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo1_start</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
