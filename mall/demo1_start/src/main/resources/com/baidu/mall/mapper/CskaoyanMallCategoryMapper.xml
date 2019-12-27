@@ -16,11 +16,11 @@
     <result column="deleted" jdbcType="BIT" property="deleted" />
   </resultMap>
   <sql id="Base_Column_List">
-    id, name, keywords, desc, pid, icon_url, pic_url, level, sort_order, add_time, update_time, 
+    id, `name`, keywords, `desc`, pid, icon_url, pic_url, level, sort_order, add_time, update_time,
     deleted
   </sql>
   <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
-    select 
+    select
     <include refid="Base_Column_List" />
     from cskaoyan_mall_category
     where id = #{id,jdbcType=INTEGER}
@@ -83,4 +83,15 @@
       deleted = #{deleted,jdbcType=BIT}
     where id = #{id,jdbcType=INTEGER}
   </update>
+    <select id="selectCategoryByPid" resultMap="BaseResultMap">
+      select <include refid="Base_Column_List" /> from cskaoyan_mall_category
+      <where>
+        <if test="pid!=null">
+          and pid = #{pid}
+        </if>
+      </where>
+    </select>
+  <select id="selectCategoryByLevel" resultType="com.baidu.mall.bean.CskaoyanMallCategoryByLevel">
+    select id as `value`,`name` as `label` from cskaoyan_mall_category where level = "L1"
+  </select>
 </mapper>

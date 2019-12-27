@@ -1,5 +1,6 @@
 package com.baidu.mall.mapper;
 
+import com.baidu.mall.bean.CskaoyanMallBrand;
 import com.baidu.mall.bean.CskaoyanMallRegion;
 import org.apache.ibatis.annotations.Mapper;
 

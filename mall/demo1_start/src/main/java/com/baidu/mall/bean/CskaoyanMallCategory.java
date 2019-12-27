@@ -1,6 +1,7 @@
 package com.baidu.mall.bean;
 
 import java.util.Date;
+import java.util.List;
 
 public class CskaoyanMallCategory {
     private Integer id;
@@ -26,6 +27,8 @@ public class CskaoyanMallCategory {
     private Date updateTime;
 
     private Boolean deleted;
+
+    private List<CskaoyanMallCategory> children;
 
     public Integer getId() {
         return id;
@@ -121,5 +124,13 @@ public class CskaoyanMallCategory {
 
     public void setDeleted(Boolean deleted) {
         this.deleted = deleted;
+    }
+
+    public List<CskaoyanMallCategory> getChildren() {
+        return children;
+    }
+
+    public void setChildren(List<CskaoyanMallCategory> children) {
+        this.children = children;
     }
 }
