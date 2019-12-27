@@ -1,5 +1,12 @@
 package com.baidu.mall.bean;
 
+import com.baidu.mall.mapper.CskaoyanMallRegionMapper;
+import lombok.Data;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import java.util.List;
+
+@Data
 public class CskaoyanMallRegion {
     private Integer id;
 
@@ -10,6 +17,8 @@ public class CskaoyanMallRegion {
     private Byte type;
 
     private Integer code;
+
+    private List<CskaoyanMallRegion> children;
 
     public Integer getId() {
         return id;
@@ -49,5 +58,13 @@ public class CskaoyanMallRegion {
 
     public void setCode(Integer code) {
         this.code = code;
+    }
+
+    public List<CskaoyanMallRegion> getChildren() {
+        return children;
+    }
+
+    public void setChildren(List<CskaoyanMallRegion> children) {
+        this.children = children;
     }
 }

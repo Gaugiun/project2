@@ -12,7 +12,7 @@
     id, pid, name, type, code
   </sql>
   <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
-    select 
+    select
     <include refid="Base_Column_List" />
     from cskaoyan_mall_region
     where id = #{id,jdbcType=INTEGER}
@@ -47,4 +47,20 @@
       code = #{code,jdbcType=INTEGER}
     where id = #{id,jdbcType=INTEGER}
   </update>
+    <select id="selectRegionByType" resultMap="BaseResultMap">
+      select <include refid="Base_Column_List" /> from cskaoyan_mall_region
+      <where>
+        <if test="typeId!=null">
+          and type = #{typeId}
+        </if>
+      </where>
+    </select>
+  <select id="selectRegionByPId" resultMap="BaseResultMap">
+    select <include refid="Base_Column_List" /> from cskaoyan_mall_region
+    <where>
+      <if test="Pid!=null">
+        and pid = #{pid}
+      </if>
+    </where>
+  </select>
 </mapper>
