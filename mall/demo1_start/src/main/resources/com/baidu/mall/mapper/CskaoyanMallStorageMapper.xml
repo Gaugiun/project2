@@ -16,7 +16,7 @@
     id, key, name, type, size, url, add_time, update_time, deleted
   </sql>
   <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
-    select 
+    select
     <include refid="Base_Column_List" />
     from cskaoyan_mall_storage
     where id = #{id,jdbcType=INTEGER}
@@ -67,4 +67,15 @@
       deleted = #{deleted,jdbcType=BIT}
     where id = #{id,jdbcType=INTEGER}
   </update>
+    <select id="selectStorage" resultMap="BaseResultMap">
+      select <include refid="Base_Column_List" /> from cskaoyan_mall_storage
+      <where>
+        <if test="key!=null">
+          and key like "%"#{key}"%"
+        </if>
+        <if test="name!=null">
+          and name like "%"#{name}"%"
+        </if>
+      </where>
+    </select>
 </mapper>
