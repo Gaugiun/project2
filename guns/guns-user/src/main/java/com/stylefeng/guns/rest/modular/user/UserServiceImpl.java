@@ -145,10 +145,17 @@ public class UserServiceImpl implements UserService {
         Integer isSuccess = mtimeUserTMapper.updateById(mtimeUserT);
         if(isSuccess > 0) {
             //UserInfoModel userInfo = getUserInfo(mtimeUserT.getUuid());
-            UserInfoModel userInfo = getUserInfo(mtimeUserT.getUserName());
+            UserInfoModel userInfo = getUserInfoById(mtimeUserT.getUuid());
             return userInfo;
         }else {
             return userInfoModel;
         }
     }
+
+    private UserInfoModel getUserInfoById(Integer uuid) {
+        MtimeUserT mtimeUserT = mtimeUserTMapper.selectById(uuid);
+        UserInfoModel userInfoModel = do2UserInfo(mtimeUserT);
+        return userInfoModel;
+    }
 }
+
