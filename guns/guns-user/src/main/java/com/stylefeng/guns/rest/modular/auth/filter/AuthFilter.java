@@ -44,9 +44,10 @@ public class AuthFilter extends OncePerRequestFilter {
         if (requestHeader != null && requestHeader.startsWith("Bearer ")) {
             authToken = requestHeader.substring(7);
 
-            //验证token是否过期,包含了验证jwt是否正确
             try {
-                boolean flag = jwtTokenUtil.isTokenExpired(authToken);
+                //token过期
+                Boolean flag = jwtTokenUtil.isTokenExpired(authToken);
+
                 if (flag) {
                     RenderUtil.renderJson(response, new ErrorTip(BizExceptionEnum.TOKEN_EXPIRED.getCode(), BizExceptionEnum.TOKEN_EXPIRED.getMessage()));
                     return;
@@ -56,6 +57,7 @@ public class AuthFilter extends OncePerRequestFilter {
                 RenderUtil.renderJson(response, new ErrorTip(BizExceptionEnum.TOKEN_ERROR.getCode(), BizExceptionEnum.TOKEN_ERROR.getMessage()));
                 return;
             }
+
         } else {
             //header没有带Bearer字段
             RenderUtil.renderJson(response, new ErrorTip(BizExceptionEnum.TOKEN_ERROR.getCode(), BizExceptionEnum.TOKEN_ERROR.getMessage()));

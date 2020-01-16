@@ -12,6 +12,7 @@ import com.baomidou.mybatisplus.generator.config.rules.DbType;
 import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
 import org.junit.Test;
 
+import java.awt.*;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -29,7 +30,7 @@ public class EntityGenerator {
 
         // 全局配置
         GlobalConfig gc = new GlobalConfig();
-        gc.setOutputDir("E:\\guns\\guns-rest\\src\\main\\java");//这里写你自己的java目录
+        gc.setOutputDir("C:\\Users\\王唯聪\\Desktop\\project3\\project3\\guns\\guns-cinema\\src\\main\\java");//这里写你自己的java目录
         gc.setFileOverride(true);//是否覆盖
         gc.setActiveRecord(true);
         gc.setEnableCache(false);// XML 二级缓存
@@ -51,14 +52,14 @@ public class EntityGenerator {
         dsc.setDriverName("com.mysql.jdbc.Driver");
         dsc.setUsername("root");
         dsc.setPassword("asd123456fnmj");
-        dsc.setUrl("jdbc:mysql://127.0.0.1:3306/guns_rest?autoReconnect=true&useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=GMT%2B8");
+        dsc.setUrl("jdbc:mysql://127.0.0.1:3306/mtime?autoReconnect=true&useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=CONVERT_TO_NULL&serverTimezone=GMT%2B8");
         mpg.setDataSource(dsc);
 
         // 策略配置
         StrategyConfig strategy = new StrategyConfig();
         //strategy.setTablePrefix(new String[]{"_"});// 此处可以修改为您的表前缀
         strategy.setNaming(NamingStrategy.underline_to_camel);// 表名生成策略
-        strategy.setInclude(new String[]{"user"});
+        strategy.setInclude(new String[]{"mtime_hall_film_info_t", "mtime_hall_dict_t", "mtime_film_t", "mtime_field_t", "mtime_cinema_t", "mtime_brand_dict_t", "mtime_area_dict_t"});
         mpg.setStrategy(strategy);
 
         // 包配置

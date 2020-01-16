@@ -9,7 +9,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Map;
 
 /**
  * 账号密码验证
@@ -25,7 +24,7 @@ public class DbValidator implements IReqValidator {
 
     @Override
     public boolean validate(Credence credence) {
-        List<User> users = userMapper.selectList(new EntityWrapper<User>().eq("userName", credence.getCredenceName()));
+        List<User> users = userMapper.selectList(new EntityWrapper<User>().eq("user_name", credence.getCredenceName()));
         if (users != null && users.size() > 0) {
             return true;
         } else {
