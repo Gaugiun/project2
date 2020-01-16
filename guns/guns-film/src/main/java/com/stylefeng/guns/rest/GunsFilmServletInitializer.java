@@ -13,7 +13,7 @@ public class GunsFilmServletInitializer extends SpringBootServletInitializer {
 
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-        return builder.sources(GunsCinemalApplication.class);
+        return builder.sources(GunsFilmApplication.class);
     }
 
 }

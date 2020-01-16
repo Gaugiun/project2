@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
  * @date 2016年11月12日 下午3:19:56
  */
 @ControllerAdvice
-public class GlobalExceptionHandler extends BaseControllerExceptionHandler {
+public class    GlobalExceptionHandler extends BaseControllerExceptionHandler {
 
     private Logger log = LoggerFactory.getLogger(this.getClass());
 
