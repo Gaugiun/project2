@@ -18,7 +18,7 @@ import java.util.List;
  */
 @Mapper
 public interface MtimeCinemaTMapper extends BaseMapper<MtimeCinemaT> {
-    List<BaseCinemaEasyDTO> selectConditionByBrandidHalltypeAreaid(Integer brandId, Integer hallType, Integer areaId);
+    List<BaseCinemaEasyDTO> selectConditionByBrandidHalltypeAreaid(@Param("brandId") Integer brandId, @Param("hallType") Integer hallType, @Param("areaId") Integer areaId, @Param("pageSize") Integer pageSize, @Param("startNum") Integer startNum);
 
     String selectCinemaNameById(@Param("id") Integer cinemaId);
 }

@@ -18,4 +18,6 @@ public interface OrderBuyTicketService {
     public String seatSold(Integer fieldId);
 
     List<BaseBuyTicketsVO> selectOrderList(Integer nowPage, Integer pageSize, Integer userId);
+
+    Integer selectAllOrderList(Integer nowPage, Integer pageSize, Integer userId);
 }

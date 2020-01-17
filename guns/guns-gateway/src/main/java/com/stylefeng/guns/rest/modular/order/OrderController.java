@@ -2,6 +2,10 @@ package com.stylefeng.guns.rest.modular.order;
 
 import com.alibaba.dubbo.config.annotation.Reference;
 import com.alibaba.dubbo.rpc.RpcContext;
+
+import com.baomidou.mybatisplus.plugins.Page;
+import com.github.pagehelper.PageHelper;
+import com.github.pagehelper.PageInfo;
 import com.stylefeng.guns.core.util.ToolUtil;
 import com.stylefeng.guns.rest.alipay.service.AlipayService;
 import com.stylefeng.guns.rest.alipay.service.OrderService;
@@ -61,13 +65,29 @@ public class OrderController {
     }
     @RequestMapping("getOrderInfo")
     public BaseCinemaVO getOrderInfo(Integer nowPage, Integer pageSize){
+        /*PageHelper.startPage(nowPage, pageSize);
         Jedis jedis = redisConfig.jedis();
         Integer userId = Integer.valueOf(jedis.get(jedis.get("myToken")));
 
-        List<BaseBuyTicketsVO> orderlist = orderBuyTicketService.selectOrderList(nowPage, pageSize, userId);
-
+        List<BaseBuyTicketsVO> orderList = orderBuyTicketService.selectOrderList(nowPage, pageSize, userId);
+        PageInfo<BaseBuyTicketsVO> baseBuyTicketsVOPageInfo = new PageInfo<>(orderList);
         BaseCinemaVO baseCinemaVo = new BaseCinemaVO<>();
-        baseCinemaVo.setData(orderlist);
+        baseCinemaVo.setData(orderList);
+        int totalPage = (int) Math.ceil(baseBuyTicketsVOPageInfo.getTotal() / (double)pageSize);
+        baseCinemaVo.setTotalPage(totalPage);
+        baseCinemaVo.setNowPage(nowPage);*/
+
+        Jedis jedis = redisConfig.jedis();
+        Integer userId = Integer.valueOf(jedis.get(jedis.get("myToken")));
+
+        List<BaseBuyTicketsVO> orderList = orderBuyTicketService.selectOrderList(nowPage, pageSize, userId);
+        Integer allOrderList = orderBuyTicketService.selectAllOrderList(nowPage, pageSize, userId);
+        BaseCinemaVO baseCinemaVo = new BaseCinemaVO<>();
+        baseCinemaVo.setData(orderList);
+        int totalPage = (int) Math.ceil(allOrderList / (double)pageSize);
+        baseCinemaVo.setTotalPage(totalPage);
+        baseCinemaVo.setNowPage(nowPage);
+
         return baseCinemaVo;
     }
 
@@ -120,7 +140,7 @@ public class OrderController {
                 AlipayResultVo serviceFailVo = new AlipayResultVo();
                 serviceFailVo.setOrderId(orderId);
                 serviceFailVo.setOrderStatus(0);
-                serviceFailVo.setOrderMsg("支付不成功");
+                //serviceFailVo.setOrderMsg("支付不成功");
                 return ResponseVO.success(serviceFailVo);
             }
             return ResponseVO.success(alipayResultVo);

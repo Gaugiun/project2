@@ -5,6 +5,7 @@ import com.alibaba.dubbo.config.annotation.Service;
 import com.alibaba.fastjson.JSONObject;
 import com.baomidou.mybatisplus.mapper.EntityWrapper;
 import com.baomidou.mybatisplus.mapper.Wrapper;
+import com.baomidou.mybatisplus.plugins.Page;
 import com.stylefeng.guns.rest.bean.cinema.BaseCinemaInfoDTO;
 import com.stylefeng.guns.rest.bean.cinema.MtimeCinemaTVO;
 import com.stylefeng.guns.rest.bean.cinema.MtimeFieldTVO;
@@ -202,9 +203,11 @@ public class OrderBuyTicketServiceImp implements OrderBuyTicketService {
 
     @Override
     public List<BaseBuyTicketsVO> selectOrderList(Integer nowPage, Integer pageSize, Integer userId) {
+        Page<MoocOrderT> page = new Page<>(nowPage, pageSize);
         Wrapper wrapper = new EntityWrapper();
         wrapper.eq("order_user",userId);
-        List<MoocOrderT> orderTList = moocOrderTMapper.selectList(wrapper);  // 这个查出来的是 List<MoocOrderT>
+        wrapper.orderBy("order_time", false);
+        List<MoocOrderT> orderTList = moocOrderTMapper.selectPage(page, wrapper);  // 这个查出来的是 List<MoocOrderT>
         List<BaseBuyTicketsVO> resultOrder = new ArrayList<>();
 
         for (int i = 0; i < orderTList.size(); i++) {
@@ -232,5 +235,11 @@ public class OrderBuyTicketServiceImp implements OrderBuyTicketService {
         return resultOrder;
     }
 
-
+    @Override
+    public Integer selectAllOrderList(Integer nowPage, Integer pageSize, Integer userId) {
+        Wrapper<MoocOrderT> wrapper = new EntityWrapper<>();
+        wrapper.eq("order_user",userId);
+        List<MoocOrderT> moocOrderTS = moocOrderTMapper.selectList(wrapper);
+        return moocOrderTS.size();
+    }
 }

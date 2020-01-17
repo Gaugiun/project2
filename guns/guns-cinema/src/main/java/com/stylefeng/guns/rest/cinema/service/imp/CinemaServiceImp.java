@@ -4,6 +4,7 @@ import com.alibaba.dubbo.config.annotation.Reference;
 import com.alibaba.dubbo.config.annotation.Service;
 import com.baomidou.mybatisplus.mapper.EntityWrapper;
 import com.baomidou.mybatisplus.mapper.Wrapper;
+import com.baomidou.mybatisplus.plugins.Page;
 import com.stylefeng.guns.rest.bean.BaseAreaListVO;
 import com.stylefeng.guns.rest.bean.BaseBrandListVO;
 import com.stylefeng.guns.rest.bean.BaseHallTypeListVO;
@@ -163,10 +164,15 @@ public class CinemaServiceImp implements CinemaService {
         Integer brandId = requestVO.getBrandId();
         Integer areaId = requestVO.getAreaId();
         Integer hallType = requestVO.getHallType();
+        Integer pageSize = requestVO.getPageSize();
+        Integer nowPage = requestVO.getNowPage();
+
+        System.out.println(pageSize + "+++" + nowPage);
         //mtimeCinemaTMapper.selectConditionByBrandidHalltypeAreaid(brandId,hallType,areaId);
 
         //List<BaseCinemaEasyDTO> cinemaEasyDTOS = mtimeCinemaTMapper.selectConditionByBrandidHalltypeAreaid(requestVO.getBrandId(),requestVO.getHallType(),requestVO.getAreaId());
-        return mtimeCinemaTMapper.selectConditionByBrandidHalltypeAreaid(brandId,hallType,areaId);
+        Integer startNum = pageSize * (nowPage - 1);
+        return mtimeCinemaTMapper.selectConditionByBrandidHalltypeAreaid(brandId,hallType,areaId, pageSize, startNum);
     }
 
     @Override
